@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ebru</h1>
+<h1 align="center">Hi ✨, I'm Ebru 🧝🏼‍♀️</h1>
 <h3 align="center">i am a software developer</h3>
 
 - 🌱 I’m currently learning **React, React-Native and Swift**
